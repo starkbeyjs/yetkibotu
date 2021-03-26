@@ -1,0 +1,22 @@
+{
+"durum": "Serendia 🖤 S†ârk",
+"token": "TOKENİNİZ",
+"prefix" : ".",
+"adminrole": "YETKİ VERECEK ROL(ZORUNLUDUR)",
+"erkekrol": "Erkek Rol(ZORUNLUDUR)",
+"kadınrol": "KADIN Rol(ZORUNLUDUR)",
+"taglırol": "TAGLI Rol(ZORUNLUDUR)",
+"tag": "TAG (ZORUNLUDUR)",
+"Yetkiler": [
+"1.ROL (EN ALTAKİ)",
+"2.ROL",
+"3.ROL",
+"4.ROL",
+"5.ROL",
+"6.ROL",
+"7.ROL",
+"8.ROL",
+"9.ROL",
+"10.ROL (EN ÜSTTEKİ)"
+]
+}
